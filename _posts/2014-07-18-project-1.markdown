@@ -7,7 +7,7 @@ date: 2014-07-18
 img: mapa.png
 thumbnail: mapa.png
 description: Edificio 8A (mejor conocido como El Queso) salas 1y 2, primer piso 
-
+excerpt_separator: <!--listo-->
 ---
 
 ## Ubicación
@@ -17,3 +17,5 @@ description: Edificio 8A (mejor conocido como El Queso) salas 1y 2, primer piso
 ## Horarios
 
 Todas las plñaticas son de lunes a jueves, una en la mañana de 11:00 a 12:00 horas y una o dos en la tarde de 18:00 a 20:00 horas.
+
+<!--listo-->
