@@ -13,6 +13,6 @@ excerpt_separator: <!--listo-->
 
 ---
 
-![](https://www.uv.mx/filu/files/2013/01/Pagina-en-obras.jpg)
+## Más información proximamente
 
 <!--listo-->
