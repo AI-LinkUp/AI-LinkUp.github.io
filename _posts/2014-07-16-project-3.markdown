@@ -1,6 +1,6 @@
 ---
-title: Concurso de programación
-subtitle: Para principiantes y avanzados
+title: Code Challenge
+subtitle: Por Encora
 layout: default
 modal-id: 3
 date: 2014-07-16
